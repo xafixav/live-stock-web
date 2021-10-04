@@ -64,7 +64,6 @@ const createPageDefault = () => {
   pageButtons.appendChild(createPageElement('button', 'page__changer', 'Adicionar ao Estoque'));
 }
 
-
 window.onload = async () => {
 createPageDefault();
 createStock();

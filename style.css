@@ -62,8 +62,7 @@ body {
     background-color: white;
     display: flex;
     justify-content: center;
-    flex-direction: column;
-    
+    flex-direction: column;    
 }
 
 .page__changer {
